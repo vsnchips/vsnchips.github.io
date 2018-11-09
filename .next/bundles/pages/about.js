@@ -1,7 +1,7 @@
 module.exports =
 __NEXT_REGISTER_PAGE('/about', function() {
           var comp =
-      webpackJsonp([4],{
+      webpackJsonp([5],{
 
 /***/ "./node_modules/webpack/buildin/harmony-module.js":
 /***/ (function(module, exports) {
@@ -41,7 +41,7 @@ module.exports = function(originalModule) {
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-var _jsxFileName = "/home/shelly/local/reactMDblog-local/pages/about.js";
+var _jsxFileName = "/home/shelly/local/web_workspace/vsnchips.github.io/pages/about.js";
 
 
 var Index = function Index() {
@@ -81,7 +81,7 @@ var Index = function Index() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("./pages/about.js");
@@ -89,7 +89,7 @@ module.exports = __webpack_require__("./pages/about.js");
 
 /***/ })
 
-},[3])
+},[4])
           return { page: comp.default }
         })
       ;
