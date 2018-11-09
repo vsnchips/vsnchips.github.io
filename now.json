@@ -1,1 +1,7 @@
-{}
+{
+"version":2,
+"name":"next",
+"builds":[
+  { "src":"pages/index.js", "use":"@now/next" }
+]
+}
