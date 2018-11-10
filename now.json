@@ -1,7 +1,8 @@
 {
     "version": 2,
     "name": "nextjs",
+    "alias":"danaston.nz",
     "builds": [
-        { "src": "package.json", "use": "@now/next" }
+        { "src": "Package.json", "use": "@now/next" }
     ]
 }
