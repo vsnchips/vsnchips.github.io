@@ -10,28 +10,6 @@ const list = [
   { name : '2014'}
 ];
 
-/*
-export const Menu = (list) => list.map(el=>{
-  const { name } = el;
-  return ( <MenuItem
-    text = {name}
-    key={name}
-    />
-  );
-});
-const MenuItem = ({text,selected}) => {
-  return(
-    <div className = "menu-item">
-    {text}
-    </div>
-  );};
-
-const selected = this.state;
-
-const menu = Menu(list, selected);
-*/
-
-
 export default () => (
   <main>
     <Header />
@@ -41,15 +19,6 @@ export default () => (
       </Link>
     </section>
  
-/*  <ScrollMenu
-    data={menu}
-    arrowLeft={ArrowLeft}
-    arrowRight={ArrowRight}
-    selected={selected}
-    onSelect={this.onSelect}
-  />
-*/
-
   <section>
   <a>
   Hello. This is a fresh new site. I have a lot to migrate. In the meantime, please, enjoy these links :)
@@ -58,11 +27,11 @@ export default () => (
   
   <section>
   <a> 2018 </a>
-    </section>
+  </section>
  
-    <section>
+  <section>
   <a> 2017 </a>
-    </section>
+  </section>
  
     <section>
   <a> 2016 </a>
@@ -80,9 +49,7 @@ export default () => (
     <section>
   <a> 2014 </a>
   <a>Fringe Festival: Welcome Home </a>
-  <a href= " ">Fringe Festival: Hallelujah Society </a>
+  <a href= " ">Fringe Festival: Hallelujah Society</a>
     </section>
   </main>
 );
-
-
