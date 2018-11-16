@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Header from "../components/header";
-
-import ScrollMenu from 'react-horizontal-scrolling-menu'
+//import ScrollMenu from 'react-horizontal-scrolling-menu'
 
 const list = [
   { name : '2018'},
@@ -11,6 +10,7 @@ const list = [
   { name : '2014'}
 ];
 
+/*
 export const Menu = (list) => list.map(el=>{
   const { name } = el;
   return ( <MenuItem
@@ -29,25 +29,34 @@ const MenuItem = ({text,selected}) => {
 const selected = this.state;
 
 const menu = Menu(list, selected);
+*/
+
 
 export default () => (
   <main>
     <Header />
     <section>
       <Link href="/about">
-        <a>Go to About Me</a>
+        <a>Biography Page</a>
       </Link>
     </section>
  
-  <ScrollMenu
+/*  <ScrollMenu
     data={menu}
     arrowLeft={ArrowLeft}
     arrowRight={ArrowRight}
     selected={selected}
     onSelect={this.onSelect}
   />
+*/
 
-   <section>
+  <section>
+  <a>
+  Hello. This is a fresh new site. I have a lot to migrate. In the meantime, please, enjoy these links :)
+  </a>
+  </section>
+  
+  <section>
   <a> 2018 </a>
     </section>
  
@@ -57,15 +66,21 @@ export default () => (
  
     <section>
   <a> 2016 </a>
-  <ai href="https://www.facebook.com/daniel.aston.75/media_set?set=a.10157669635985717&type=3">  Industrial Design Projects
-    </section>
+  <a href='https://vimeo.com/190215155'> Digital Creation Project Three:Atlas</a>
+  <a href='https://www.facebook.com/daniel.aston.75/media_set?set=a.10157669635985717&type=3'>  Industrial Design Projects</a>
+  <a href='https://vimeo.com/183779731'>  The Lumenbot </a>
+  <a href=' https://vimeo.com/170895434'> I.RYOKO - Opening (Unofficial Video)</a>
+  </section>
  
     <section>
   <a> 2015 </a>
+  <a href='https://facebook.com/vsnchips'> A whole bunch of gigs</a>
     </section>
  
     <section>
   <a> 2014 </a>
+  <a>Fringe Festival: Welcome Home </a>
+  <a href= " ">Fringe Festival: Hallelujah Society </a>
     </section>
   </main>
 );
