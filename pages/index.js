@@ -19,7 +19,12 @@ export const Menu = (list) => list.map(el=>{
     />
   );
 });
-const MenuItem
+const MenuItem = ({text,selected}) => {
+  return(
+    <div className = "menu-item">
+    {text}
+    </div>
+  );};
 
 const selected = this.state;
 
