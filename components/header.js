@@ -1,5 +1,5 @@
 export default () => (
   <header>
-    <h1>Next.js Example</h1>
+    <h1>"dan's portfolio"</h1>
   </header>
 );
