@@ -33,10 +33,11 @@ export default () => (
 
   <section>
   <a> 2018 </a>
-  <br /><a href=' '></a>
-  <br /><a href=' '></a>
+  <br /><a href='https://github.com/vsnchips/RNDR18'>RNDR18 End of year exhibition interactive signage</a>
+  <br /><a href='https://github.com/vsnchips/bvh-builder-nocuda'>CGRA350 Final Project: Agglomerative Bounding Volume Heirarchy.</a>
   <br /><a href='https://github.com/vsnchips/skeleton-animation-editor'>Skeleton Animation Editor</a>
-  <br /><a href=' '></a>
+  <br /><a href=' '>Lightfield Integrator</a>
+  <br /><a href=' '>Video Stabiliser in OpenCV</a>
   <br />
   <br />
   </section>
@@ -44,7 +45,7 @@ export default () => (
   <a> 2017 </a>
   <br /><a href='http://www.purview.nz/versions/385c0ca578d27fd55751b8351924df93.html'> Machine Learning: t-distributed stochastic neighbor embedding of landscape photography</a>
   <br /><a href='https://www.facebook.com/daniel.aston.75/media_set?set=a.10159598793570717&type=3'>Graphics: Multi-threaded Monte Carlo Raytracing on the C++<br /></a>
-  <br />
+  <br /><a href=''></a>
   </section>
   <section>
   <a> 2016 </a>

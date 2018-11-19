@@ -1028,23 +1028,23 @@ var list = [{
       lineNumber: 36
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
-    href: " ",
+    href: "https://github.com/vsnchips/RNDR18",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 36
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+  }, "RNDR18 End of year exhibition interactive signage"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 37
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
-    href: " ",
+    href: "https://github.com/vsnchips/bvh-builder-nocuda",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 37
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+  }, "CGRA350 Final Project: Agglomerative Bounding Volume Heirarchy."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 38
@@ -1066,173 +1066,190 @@ var list = [{
       fileName: _jsxFileName,
       lineNumber: 39
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+  }, "Lightfield Integrator"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 40
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
+    href: " ",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 40
+    }
+  }, "Video Stabiliser in OpenCV"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 41
     }
-  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section", {
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 42
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
+  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 44
     }
-  }, " 2017 "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 45
+    }
+  }, " 2017 "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 46
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: "http://www.purview.nz/versions/385c0ca578d27fd55751b8351924df93.html",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 46
     }
   }, " Machine Learning: t-distributed stochastic neighbor embedding of landscape photography"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 47
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: "https://www.facebook.com/daniel.aston.75/media_set?set=a.10159598793570717&type=3",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 47
     }
   }, "Graphics: Multi-threaded Monte Carlo Raytracing on the C++", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 47
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 48
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
+    href: "",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 48
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
+      lineNumber: 50
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
+      lineNumber: 51
     }
   }, " 2016 "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 52
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: "https://vimeo.com/190215155",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 52
     }
   }, " Digital Creation Project Three:Atlas"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 53
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: "https://www.facebook.com/daniel.aston.75/media_set?set=a.10157669635985717&type=3",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 53
     }
   }, "  Industrial Design Projects"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53
+      lineNumber: 54
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: "https://vimeo.com/183779731",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53
+      lineNumber: 54
     }
   }, "  The Lumenbot "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 55
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: " https://vimeo.com/170895434",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 55
     }
   }, " I.RYOKO - Opening (Unofficial Video)", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 55
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55
+      lineNumber: 56
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
+      lineNumber: 58
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 59
     }
   }, " 2015 "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: "https://facebook.com/vsnchips",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 60
     }
   }, " A whole bunch of gigs", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 60
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
+      lineNumber: 61
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("section", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 64
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 64
+      lineNumber: 65
     }
   }, " 2014 "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 65
+      lineNumber: 66
     }
   }, "Fringe Festival: Welcome Home "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: " ",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66
+      lineNumber: 67
     }
   }, "Fringe Festival: Hallelujah Society", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66
+      lineNumber: 67
     }
   }))));
 });
